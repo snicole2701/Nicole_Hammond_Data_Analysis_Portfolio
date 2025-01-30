@@ -14,3 +14,5 @@ The ability to toggle spending amounts for TV, Radio, and Newspaper advertising.
 Real-time updates to predicted sales as spending amounts are adjusted.
 
 Comprehensive calculations powered by DAX measures to showcase the relationship between advertising spend and sales outcomes.
+
+![Alt text](images/Dashboard Image.png)
