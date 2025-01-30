@@ -42,3 +42,11 @@ The model achieved an R-squared score of 0.669, explaining approximately 66.9% o
 Explore additional features and more advanced machine learning models to improve prediction accuracy.
 
 Implement feature engineering techniques to better capture the relationships within the data.
+
+# Heatmap Of Correlation Between Features and the Median House Value
+
+![Heatmap Of Correlation of Feature](https://github.com/snicole2701/House-Price-Prediction-Model/blob/main/Heatmap%20of%20Feature%20Correlation%20after%20Ocean%20Proximity%20Inclusion.png)
+
+# Scatter Plot of House Values Based on Proximity to the Ocean
+
+![Scatterplot of House Values Based on Ocean Proximity](https://github.com/snicole2701/House-Price-Prediction-Model/blob/main/Scatterplot%20Changes%20of%20Property%20Values%20based%20on%20Proximity%20to%20the%20Ocean.png)
