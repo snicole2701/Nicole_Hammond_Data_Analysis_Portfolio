@@ -15,4 +15,4 @@ Real-time updates to predicted sales as spending amounts are adjusted.
 
 Comprehensive calculations powered by DAX measures to showcase the relationship between advertising spend and sales outcomes.
 
-![Alt text](images/Dashboard Image.png)
+![Interactive Dashboard](https://github.com/snicole2701/Nicole_Hammond_Data_Portfolio/blob/main/Dashboard%20Image.png)
