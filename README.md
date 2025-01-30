@@ -15,6 +15,6 @@ Real-time updates to predicted sales as spending amounts are adjusted.
 
 Comprehensive calculations powered by DAX measures to showcase the relationship between advertising spend and sales outcomes.
 
-![Interactive Dashboard](C:\Users\USER-PC\Desktop\Code Folder\Sales Prediction Model\Dashboard Image.png)
+![Interactive Dashboard](https://github.com/snicole2701/Sales-Prediction-Model/blob/main/Dashboard%20Image.png)
 
 
