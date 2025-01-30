@@ -17,3 +17,7 @@ Comprehensive calculations powered by DAX measures to showcase the relationship 
 
 
 ![Interactive Dashboard](https://github.com/user-attachments/assets/2277e366-9199-42fc-a55b-c81a71907477)
+
+
+## [Project 2: House Price Prediction Model](https://github.com/snicole2701/House-Price-Prediction-Model)
+
