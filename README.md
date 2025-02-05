@@ -45,11 +45,11 @@ Implement feature engineering techniques to better capture the relationships wit
 
 # Heatmap Of Correlation Between Features and the Median House Value
 
-![Heatmap Of Correlation of Feature](https://github.com/snicole2701/House-Price-Prediction-Model/blob/main/Heatmap%20of%20Feature%20Correlation%20after%20Ocean%20Proximity%20Inclusion.png)
+![Heatmap Of Correlation of Feature](https://raw.githubusercontent.com/snicole2701/House-Price-Prediction-Model/refs/heads/main/Heatmap%20of%20Feature%20Correlation%20after%20Ocean%20Proximity%20Inclusion.png)
 
 # Scatter Plot of House Values Based on Proximity to the Ocean
 
-![Scatterplot of House Values Based on Ocean Proximity](https://github.com/snicole2701/House-Price-Prediction-Model/blob/main/Scatterplot%20Changes%20of%20Property%20Values%20based%20on%20Proximity%20to%20the%20Ocean.png)
+![Scatterplot of House Values Based on Ocean Proximity](https://raw.githubusercontent.com/snicole2701/House-Price-Prediction-Model/refs/heads/main/Scatterplot%20Changes%20of%20Property%20Values%20based%20on%20Proximity%20to%20the%20Ocean.png)
 
 ## [Project 3: South Africa Rainfall Prediction - Time Series Forecasting](https://github.com/snicole2701/Time-Series-Forecasting-Rainfall-Prediction)
 
