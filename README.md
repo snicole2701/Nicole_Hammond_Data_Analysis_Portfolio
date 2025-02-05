@@ -78,5 +78,5 @@ Model Deployment: Saving the trained model and forecasted data for future use.
 ## Actual Rainfall since 2020
 ![Actual Rainfall from 2020](https://raw.githubusercontent.com/snicole2701/Time-Series-Forecasting-Rainfall-Prediction/refs/heads/main/Plot%20from%202020%20no%20forecast.png)
 
-## Forecasted Ranfall for 2025
+## Forecasted Rainfall for 2025
 ![Forecasted Rainfall for 2025](https://raw.githubusercontent.com/snicole2701/Time-Series-Forecasting-Rainfall-Prediction/refs/heads/main/Forecasted%20Rainfall.png)
