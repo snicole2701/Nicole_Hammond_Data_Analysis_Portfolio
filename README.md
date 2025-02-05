@@ -26,9 +26,11 @@ Forecasting: Predicting rainfall for the next 30 days and visualizing the result
 Model Deployment: Saving the trained model and forecasted data for future use.
 
 ## Actual Rainfall since 2020
+
 ![Actual Rainfall from 2020](https://raw.githubusercontent.com/snicole2701/Time-Series-Forecasting-Rainfall-Prediction/refs/heads/main/Plot%20from%202020%20no%20forecast.png)
 
 ## Forecasted Rainfall for 2025
+
 ![Forecasted Rainfall for 2025](https://raw.githubusercontent.com/snicole2701/Time-Series-Forecasting-Rainfall-Prediction/refs/heads/main/Forecasted%20Rainfall.png)
 
 
@@ -57,11 +59,11 @@ Explore additional features and more advanced machine learning models to improve
 
 Implement feature engineering techniques to better capture the relationships within the data.
 
-# Heatmap Of Correlation Between Features and the Median House Value
+## Heatmap Of Correlation Between Features and the Median House Value
 
 ![Heatmap Of Correlation of Feature](https://raw.githubusercontent.com/snicole2701/House-Price-Prediction-Model/refs/heads/main/Heatmap%20of%20Feature%20Correlation%20after%20Ocean%20Proximity%20Inclusion.png)
 
-# Scatter Plot of House Values Based on Proximity to the Ocean
+## Scatter Plot of House Values Based on Proximity to the Ocean
 
 ![Scatterplot of House Values Based on Ocean Proximity](https://raw.githubusercontent.com/snicole2701/House-Price-Prediction-Model/refs/heads/main/Scatterplot%20Changes%20of%20Property%20Values%20based%20on%20Proximity%20to%20the%20Ocean.png)
 
@@ -81,6 +83,7 @@ Real-time updates to predicted sales as spending amounts are adjusted.
 
 Comprehensive calculations powered by DAX measures to showcase the relationship between advertising spend and sales outcomes.
 
+## Power BI Interactive Dashboard
 
 ![Interactive Dashboard](https://github.com/user-attachments/assets/2277e366-9199-42fc-a55b-c81a71907477)
 
