@@ -65,7 +65,7 @@ Explore additional features and more advanced machine learning models to improve
 Implement feature engineering techniques to better capture the relationships within the data.
 
 ## Outcome:
-Despite the predictive model only being accurate 67% of the time, some insight was gained during the data analysis phase of the process. The scatter plot clearly shows that property prices where directly influenced based on their proximity to the coast. The Heatmap shows how certain features of the properties have a large influence on the property prices where other have little to no influence.
+Despite the predictive model only being accurate 67% of the time, some insight was gained during the data analysis phase of the process. The scatter plot clearly shows that property prices where directly influenced based on their proximity to the coast. The Heatmap shows how certain features of the properties have a large influence on the property prices where others have little to no influence.
 
 I will explore a different model to increase the accuracy of the modelin predicting the potential price of a property for sale in the area.
 
