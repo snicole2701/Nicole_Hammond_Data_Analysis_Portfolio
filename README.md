@@ -67,7 +67,7 @@ Implement feature engineering techniques to better capture the relationships wit
 ## Outcome:
 Despite the predictive model only being accurate 67% of the time, some insight was gained during the data analysis phase of the process. The scatter plot clearly shows that property prices where directly influenced based on their proximity to the coast. The Heatmap shows how certain features of the properties have a large influence on the property prices where others have little to no influence.
 
-I will explore a different model to increase the accuracy of the modelin predicting the potential price of a property for sale in the area.
+I will explore a different model to increase the accuracy of the model when predicting the potential price of a property for sale in the area.
 
 In the meantime, I believe the insights gained from which features highly influence property prices we can get some value. When we know which factors have a large influence on property prices we can use this when advertising a property. Great benefit will come from emphasising feaures on a property  that have a positive impact on the potential selling price and advising selling owners on features that negatively influence the potential value of the property.
 
