@@ -79,26 +79,3 @@ In the meantime, I believe the insights gained from which features highly influe
 
 ![Scatterplot of House Values Based on Ocean Proximity](https://raw.githubusercontent.com/snicole2701/House-Price-Prediction-Model/refs/heads/main/Scatterplot%20Changes%20of%20Property%20Values%20based%20on%20Proximity%20to%20the%20Ocean.png)
 
-
-
-## [Project 3: Sales Prediction Model](https://github.com/snicole2701/Sales-Prediction-Model)
-
-For my latest project, I leveraged a dataset detailing weekly expenditures on TV, Radio, and Newspaper advertising, along with the resulting sales figures. I developed a linear regression model to analyze the impact of spending on each advertising medium on total sales, utilizing Python in Visual Studio Code for this analysis.
-
-Following the model creation, I crafted an interactive dashboard in Power BI. This dashboard allows users to input various spending amounts for each advertising channel, dynamically updating to predict total sales based on these inputs. The dashboard also calculates the total cost of advertising and the predicted sales.
-
-### Key features of this interactive dashboard include:
-
-The ability to toggle spending amounts for TV, Radio, and Newspaper advertising.
-
-Real-time updates to predicted sales as spending amounts are adjusted.
-
-Comprehensive calculations powered by DAX measures to showcase the relationship between advertising spend and sales outcomes.
-
-### Key Note:
-In the real world, advertising spending and connected income is not a linear relationship. Spending more and more on a specific advertising option does not guarentee linear increase in income. That said, the purpose of the project was to use historic information to determine the effect of spending on different advertising option and the income generated from it. This gives us some insight on which advertising option is most effective. From the interactive dashboard one finds, for this business and based on historic advertising, newspaper advertising has shown little to no return. Insight gained from this is that the business should definitely cut on newspaper advertising and instead invest that money into radio and TV advertising that has a positive relationship between how much they had spent on those advertising options and the resulting sales made from it.
-
-## Power BI Interactive Dashboard
-
-![Interactive Dashboard](https://github.com/user-attachments/assets/2277e366-9199-42fc-a55b-c81a71907477)
-
