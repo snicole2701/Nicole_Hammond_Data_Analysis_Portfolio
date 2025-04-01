@@ -1,4 +1,4 @@
-A collection of the projects I have completed on my data journey
+Some of the projects I have completed on my data journey
 
 ## [Project 1: South Africa Rainfall Prediction - Time Series Forecasting](https://github.com/snicole2701/Time-Series-Forecasting-Rainfall-Prediction)
 
